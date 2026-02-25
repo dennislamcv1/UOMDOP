@@ -1,0 +1,620 @@
+Rk,Player,Pos,Squad,Age,Born,90s,Gls,Sh,SoT
+1,Teresa Abelleira,MF,es Spain,23,2000,6.7,1,10,4
+2,Deborah Abiodun,MF,ng Nigeria,19,2003,1,0,1,0
+3,Adriana,MF,br Brazil,26,1996,2.9,0,8,2
+4,Lily Agg,MF,ie Rep. of Ireland,29,1993,1.2,0,1,1
+5,Eseosa Aigbogun,DF,ch Switzerland,30,1993,3.5,0,0,0
+6,Rasheedat Ajibade,FW,ng Nigeria,23,1999,3.3,0,6,3
+7,Michelle Alozie,DF,ng Nigeria,26,1997,4.3,0,6,0
+8,Katherine Alvarado,MF,cr Costa Rica,32,1991,3,0,0,0
+9,Lúcia Alves,DF,pt Portugal,25,1997,1.1,0,2,2
+10,Catarina Amado,DF,pt Portugal,23,1999,1.8,0,0,0
+11,Salma Amani,FW,ma Morocco,33,1989,1.2,0,2,1
+12,Jonna Andersson,DF,se Sweden,30,1993,6.3,0,2,0
+13,Lady Andrade,FW,co Colombia,31,1992,0.6,0,0,0
+14,Ivana Andrés,DF,es Spain,28,1994,2.7,0,4,2
+15,Andressa,FW,br Brazil,30,1992,0.4,0,1,1
+16,Filippa Angeldahl,MF,se Sweden,25,1997,5.8,1,12,4
+17,Nguyễn Thị Mỹ Anh,"DF,MF",vn Vietnam,28,1994,1,0,0,0
+18,Tahnai Annis,DF,ph Philippines,33,1989,0.2,0,0,0
+19,Antônia,DF,br Brazil,29,1994,2.5,0,3,1
+20,Nicole Anyomi,FW,de Germany,23,2000,0.5,0,0,0
+21,Carolina Arias,DF,co Colombia,32,1990,4.1,0,0,0
+22,Daniela Arias,DF,co Colombia,28,1994,5,0,3,2
+23,Mackenzie Arnold,GK,au Australia,29,1994,7.3,0,0,0
+24,Ary Borges,MF,br Brazil,23,1999,2.3,3,7,4
+25,Kosovare Asllani,MF,se Sweden,33,1989,5.1,1,5,3
+26,Viviane Asseyi,"FW,MF",fr France,29,1993,0.5,0,0,0
+27,Izzy Atkinson,"MF,DF",ie Rep. of Ireland,21,2001,0.3,0,0,0
+28,Rosella Ayane,FW,ma Morocco,27,1996,1.5,0,1,0
+29,Halimatu Ayinde,MF,ng Nigeria,28,1995,2.8,0,2,0
+30,Selma Bacha,MF,fr France,22,2000,3.8,0,9,0
+31,Ramona Bachmann,"MF,FW",ch Switzerland,32,1990,3.7,1,5,0
+32,Najat Badri,MF,ma Morocco,35,1988,0.2,0,0,0
+33,Jill Baijings,FW,nl Netherlands,22,2001,0,0,0,0
+34,Yenith Bailey,GK,pa Panama,22,2001,3,0,0,0
+35,Stine Ballisager Pedersen,DF,dk Denmark,29,1994,2.8,0,0,0
+36,Carina Baltrip-Reyes,DF,pa Panama,24,1998,3,0,1,1
+37,Barbra Banda,FW,zm Zambia,23,2000,3,1,8,3
+38,Susan Banda,MF,zm Zambia,28,1995,2.4,0,1,0
+39,Estefanía Banini,"MF,FW",ar Argentina,32,1990,3,0,3,1
+40,Alicia Barker,DF,ph Philippines,25,1998,2.4,0,0,0
+41,Amber Barrett,FW,ie Rep. of Ireland,27,1996,0.3,0,0,0
+42,Elisa Bartoli,DF,it Italy,32,1991,0.3,0,0,0
+43,Ona Batlle,DF,es Spain,24,1999,6.8,0,4,1
+44,Angela Beard,DF,ph Philippines,25,1997,3,0,2,1
+45,Beatriz,"FW,MF",br Brazil,29,1993,1.3,1,9,3
+46,Chiara Beccari,FW,it Italy,18,2004,2.7,0,4,0
+47,Vicki Bècho,"MF,FW",fr France,19,2003,2.5,1,6,4
+48,Lorena Bedoya,MF,co Colombia,25,1997,4.9,0,7,3
+49,Lineth Beerensteyn,FW,nl Netherlands,26,1996,3.3,1,12,4
+50,Margaret Belemu,DF,zm Zambia,26,1997,3,0,1,0
+51,Mariana Benavides,DF,cr Costa Rica,28,1994,3,0,1,1
+52,Lorena Benítez,MF,ar Argentina,24,1998,1.5,0,1,0
+53,Hanna Bennison,MF,se Sweden,20,2002,1.6,0,1,0
+54,Nouhaila Benzina,DF,ma Morocco,25,1998,3,0,1,0
+55,Guro Bergsvand,DF,no Norway,29,1994,0.1,0,0,0
+56,Kholosa Biyana,MF,za South Africa,28,1994,2.3,0,4,1
+57,Thea Bjelde,DF,no Norway,23,2000,3.7,0,0,0
+58,Nathalie Björn,DF,se Sweden,26,1997,6.3,0,4,0
+59,Stina Blackstenius,FW,se Sweden,27,1996,5.5,1,12,3
+60,Deneisha Blackwood,DF,jm Jamaica,26,1997,4,0,2,1
+61,Julie Blakstad,FW,no Norway,21,2001,0.6,0,0,0
+62,Rebecka Blomqvist,FW,se Sweden,25,1997,1.8,3,3,3
+63,Lisa Boattin,DF,it Italy,26,1997,3,0,3,1
+64,Sarina Bolden,FW,ph Philippines,26,1996,2.6,1,1,1
+65,Barbara Bonansea,FW,it Italy,32,1991,2.3,0,2,0
+66,Aitana Bonmatí,MF,es Spain,25,1998,6.5,3,19,6
+67,Florencia Bonsegundo,"FW,MF",ar Argentina,29,1993,2.4,0,5,2
+68,Roselord Borgella,"FW,MF",ht Haiti,30,1993,2.1,0,4,0
+69,Ana Borges,DF,pt Portugal,32,1990,3,0,0,0
+70,CJ Bott,DF,nz New Zealand,28,1995,3,0,5,1
+71,Sofia Bouftini,MF,ma Morocco,21,2002,0.4,0,1,0
+72,Katie Bowen,DF,nz New Zealand,29,1994,3,0,3,0
+73,Simone Boye Sørensen,DF,dk Denmark,31,1992,4,0,2,0
+74,Jule Brand,FW,de Germany,20,2002,2.9,0,2,0
+75,Marit Bratberg Lund,DF,no Norway,25,1997,0,0,0,0
+76,Sophia Braun,"MF,DF",ar Argentina,22,2000,3,1,2,1
+77,Millie Bright,DF,en England,29,1993,7.3,0,5,0
+78,Lucy Bronze,DF,en England,31,1991,7.1,0,8,0
+79,Courtney Brosnan,GK,ie Rep. of Ireland,27,1995,3,0,0,0
+80,Jody Brown,MF,jm Jamaica,21,2002,3.7,0,2,0
+81,Esmee Brugts,FW,nl Netherlands,19,2003,4.8,2,8,4
+82,Bruninha,DF,br Brazil,20,2002,0.4,0,1,0
+83,Signe Bruun,FW,dk Denmark,25,1998,0.9,0,4,0
+84,Kadeisha Buchanan,DF,ca Canada,27,1995,2.5,0,1,0
+85,Ryley Bugay,"MF,DF",ph Philippines,27,1996,0.3,0,0,0
+86,Klara Bühl,FW,de Germany,22,2000,2.2,1,8,1
+87,Luana Bühler,DF,ch Switzerland,27,1996,1,0,0,0
+88,Claudia Bunge,DF,nz New Zealand,23,1999,0.6,0,1,1
+89,Vilde Bøe Risa,MF,no Norway,27,1995,2.8,0,2,0
+90,Linda Caicedo,FW,co Colombia,18,2005,5,2,8,2
+91,Mariona Caldentey,FW,es Spain,27,1996,5,1,8,2
+92,Diane Caldwell,DF,ie Rep. of Ireland,34,1988,0,0,0,0
+93,Viola Calligaris,"DF,MF",ch Switzerland,27,1996,0.6,0,0,0
+94,Tiffany Cameron,"DF,MF",jm Jamaica,31,1991,1.7,0,1,0
+95,Sofia Cantore,FW,it Italy,23,1999,1.3,0,5,2
+96,Ana Capeta,"FW,MF",pt Portugal,25,1997,0.3,0,1,0
+97,Jorelyn Carabalí,DF,co Colombia,26,1997,5,0,2,0
+98,Olga Carmona,DF,es Spain,23,2000,4.8,2,11,4
+99,Ellie Carpenter,DF,au Australia,23,2000,7.1,0,4,1
+100,Jess Carter,DF,en England,25,1997,6.3,0,0,0
+101,Trudi Carter,MF,jm Jamaica,28,1994,1.4,0,2,0
+102,Kyra Carusa,FW,ie Rep. of Ireland,27,1995,2.7,0,7,4
+103,Arianna Caruso,MF,it Italy,23,1999,2.3,2,4,2
+104,Estelle Cascarino,DF,fr France,26,1997,2.1,0,1,1
+105,Kerstin Casparij,"FW,DF",nl Netherlands,22,2000,0.8,0,1,0
+106,Katherine Castillo,DF,pa Panama,27,1996,2,0,1,0
+107,Steph Catley,DF,au Australia,29,1994,7.3,2,2,1
+108,Emily Cedeño,"FW,MF",pa Panama,19,2003,2,0,2,0
+109,Lineth Cedeño,FW,pa Panama,22,2000,1.3,1,2,1
+110,Valentina Cernoia,MF,it Italy,31,1991,0.2,0,0,0
+111,Noxolo Cesane,MF,za South Africa,22,2000,0.6,0,0,0
+112,Ivonne Chacón,"MF,FW",co Colombia,25,1997,0.2,0,3,0
+113,Nesryne El Chad,DF,ma Morocco,20,2003,3.1,0,2,1
+114,Kang Chae-rim,"FW,MF",kr Korea Republic,25,1998,0.3,0,0,0
+115,Olivia Chance,"FW,MF",nz New Zealand,29,1993,1,0,1,0
+116,Hellen Chanda,MF,zm Zambia,24,1998,1,0,1,0
+117,Allysha Chapman,DF,ca Canada,34,1989,0.7,0,0,0
+118,Niamh Charles,"DF,MF",en England,23,1999,0.2,0,0,0
+119,Gabriela Chávez,DF,ar Argentina,34,1989,0.2,0,0,0
+120,Ghizlane Chebbak,MF,ma Morocco,32,1990,4,0,4,2
+121,Gao Chen,DF,cn China PR,30,1992,0.1,0,0,0
+122,Wu Chengshu,"FW,MF",cn China PR,26,1996,2.5,0,2,1
+123,Remina Chiba,MF,jp Japan,24,1999,0,0,1,0
+124,Alex Chidiac,MF,au Australia,24,1999,0.3,0,2,1
+125,Priscila Chinchilla,"FW,MF",cr Costa Rica,21,2001,3,0,0,0
+126,Avell Chitundu,"MF,FW",zm Zambia,25,1997,1.7,0,3,0
+127,Lene Christensen,GK,dk Denmark,23,2000,4,0,0,0
+128,Laia Codina,DF,es Spain,23,2000,3.6,1,3,1
+129,Cata Coll,GK,es Spain,22,2001,4.3,0,0,0
+130,Aldana Cometti,DF,ar Argentina,27,1996,3,0,0,0
+131,Megan Connolly,DF,ie Rep. of Ireland,26,1997,3,0,1,0
+132,Laura Coombs,MF,en England,32,1991,1.1,0,3,0
+133,Kyra Cooney-Cross,MF,au Australia,21,2002,7.3,0,5,2
+134,Vanina Correa,GK,ar Argentina,39,1983,3,0,0,0
+135,Carole Costa,DF,pt Portugal,33,1990,3,0,2,0
+136,María Coto,"DF,MF",cr Costa Rica,25,1998,3,0,3,0
+137,Jessika Cowart,DF,ph Philippines,23,1999,2.9,0,1,0
+138,Marta Cox,"MF,FW",pa Panama,25,1997,2.9,1,8,4
+139,Ana-Maria Crnogorčević,"FW,MF",ch Switzerland,32,1990,4,0,5,2
+140,Julieta Cruz,DF,ar Argentina,27,1996,1.3,0,0,0
+141,Sara Däbritz,MF,de Germany,28,1995,2.7,0,3,0
+142,Kenza Dali,MF,fr France,31,1991,3.6,1,12,3
+143,Rachel Daly,DF,en England,31,1991,6,1,12,7
+144,Élisa De Almeida,DF,fr France,25,1998,3.3,0,3,0
+145,Debinha,FW,br Brazil,31,1991,2.6,1,5,2
+146,Valeria del Campo,DF,cr Costa Rica,23,2000,2,0,2,1
+147,Athenea del Castillo,FW,es Spain,22,2000,0.9,0,2,0
+148,Blessing Demehin,DF,ng Nigeria,21,2002,4.3,0,0,0
+149,Savannah Demelo,MF,us USA,25,1998,1.2,0,3,1
+150,Stefanie van der Gragt,DF,nl Netherlands,30,1992,4.7,2,5,3
+151,Karabo Dhlamini,DF,za South Africa,21,2001,3,0,2,0
+152,Lucia Di Guglielmo,DF,it Italy,25,1997,2.3,0,1,0
+153,Kadidiatou Diani,FW,fr France,28,1995,5,4,17,3
+154,Caitlin Dijkstra,"MF,DF",nl Netherlands,24,1999,0.5,0,0,0
+155,Daphne van Domselaar,GK,nl Netherlands,23,2000,5.3,0,0,0
+156,Merel van Dongen,FW,nl Netherlands,30,1993,0.1,0,0,0
+157,Daniëlle van de Donk,MF,nl Netherlands,31,1991,3.2,1,6,5
+158,Sara Doorsoun,DF,de Germany,31,1991,1.5,0,0,0
+159,Giulia Dragoni,MF,it Italy,16,2006,2.6,0,1,0
+160,Melchie Dumornay,MF,ht Haiti,19,2003,2.5,0,4,2
+161,Nguyễn Thị Tuyết Dung,MF,vn Vietnam,29,1993,0.8,0,0,0
+162,Crystal Dunn,DF,us USA,30,1992,4.2,0,1,0
+163,Solène Durand,GK,fr France,28,1994,0,0,0,0
+164,Francesca Durante,GK,it Italy,26,1997,3,0,0,0
+165,Mary Earps,GK,en England,30,1993,7.3,0,0,0
+166,Onome Ebi,"DF,MF",ng Nigeria,40,1983,0.1,0,0,0
+167,Jennifer Echegini,"MF,FW",ng Nigeria,22,2001,0.5,0,0,0
+168,Sara Eggesvik,MF,ph Philippines,26,1997,2.5,0,1,0
+169,Emily van Egmond,"FW,MF",au Australia,29,1993,4,1,9,2
+170,Damaris Egurrola,MF,nl Netherlands,23,1999,1.9,0,3,0
+171,Amalie Eikeland,FW,no Norway,27,1995,0.6,0,1,0
+172,Roseline Éloissaint,FW,ht Haiti,24,1999,1.4,0,3,1
+173,Telma Encarnação,FW,pt Portugal,21,2001,1.1,1,8,5
+174,Jun Endō,"MF,DF",jp Japan,23,2000,3.3,1,2,1
+175,Bethany England,"FW,MF",en England,29,1994,0.6,0,2,0
+176,Khadija Er-Rmichi,GK,ma Morocco,33,1989,4,0,0,0
+177,Magdalena Eriksson,DF,se Sweden,29,1993,7.3,0,7,0
+178,Julie Ertz,DF,us USA,31,1992,4.3,0,9,2
+179,Rebeca Espinosa,DF,pa Panama,30,1992,0.3,0,0,0
+180,Victoria Esson,GK,nz New Zealand,32,1991,3,0,1,0
+181,Dani Étienne,MF,ht Haiti,22,2001,0.1,0,0,0
+182,Jeon Eun-ha,FW,kr Korea Republic,30,1993,0.2,0,1,0
+183,Park Eun-sun,"FW,MF",kr Korea Republic,36,1986,1.3,0,3,0
+184,Niamh Fahey,DF,ie Rep. of Ireland,35,1987,3,0,1,0
+185,Daiana Falfán,MF,ar Argentina,22,2000,1.9,0,0,0
+186,Jennifer Falk,GK,se Sweden,30,1993,1,0,0,0
+187,Sinead Farrelly,"FW,MF",ie Rep. of Ireland,33,1989,2.4,0,3,1
+188,Laurina Fazer,MF,fr France,19,2003,0.3,0,0,0
+189,Naomie Feller,FW,fr France,21,2001,0.1,0,0,0
+190,Isabella Flanigan,"MF,FW",ph Philippines,18,2005,1.2,0,0,0
+191,Jessie Fleming,MF,ca Canada,25,1998,2,0,0,0
+192,Caitlin Foord,"MF,FW",au Australia,28,1994,7.3,1,16,2
+193,Mary Fowler,FW,au Australia,20,2003,6.3,1,13,3
+194,Emily Fox,DF,us USA,24,1998,4.2,0,2,0
+195,Laura Freigang,MF,de Germany,25,1998,0.1,0,1,0
+196,Carleigh Frilles,FW,ph Philippines,21,2002,0.1,0,1,0
+197,Merle Frohms,GK,de Germany,28,1995,3,0,0,0
+198,Aoba Fujino,"FW,MF",jp Japan,19,2004,4,1,13,4
+199,Chun Ga-ram,MF,kr Korea Republic,20,2002,0.7,0,1,0
+200,Gabi Nunes,FW,br Brazil,26,1997,0.4,0,0,0
+201,Rocío Gálvez,DF,es Spain,26,1997,1,0,0,0
+202,Bongeka Gamede,"MF,DF",za South Africa,24,1999,4,0,2,0
+203,Mille Gejl,"FW,MF",dk Denmark,23,1999,0.6,0,1,1
+204,Lee Geum-min,"MF,FW",kr Korea Republic,29,1994,2,0,3,1
+205,Luna Gevitz,DF,dk Denmark,29,1994,0,0,0,0
+206,Grace Geyoro,MF,fr France,25,1997,4.8,0,2,1
+207,Geyse,"FW,MF",br Brazil,25,1998,1.1,0,3,0
+208,Valentina Giacinti,FW,it Italy,29,1994,2,0,8,3
+209,Vanessa Gilles,DF,ca Canada,27,1996,3,0,4,0
+210,Natalia Giraldo,GK,co Colombia,20,2003,0.3,0,0,0
+211,Cristiana Girelli,MF,it Italy,33,1990,0.4,1,4,2
+212,Naomi Girma,DF,us USA,23,2000,4.3,0,0,0
+213,Manuela Giugliano,MF,it Italy,25,1997,3,0,4,0
+214,Benedetta Glionna,DF,it Italy,23,1999,0,0,1,0
+215,Diana Gomes,DF,pt Portugal,24,1998,2,0,1,0
+216,Camila Gómez Ares,MF,ar Argentina,28,1994,0.8,0,0,0
+217,Esther González,FW,es Spain,30,1992,2.6,1,17,5
+218,Schiandra González,MF,pa Panama,27,1995,2.2,0,4,0
+219,Katrina Gorry,MF,au Australia,30,1992,6.9,0,11,2
+220,Caroline Graham Hansen,FW,no Norway,28,1995,3.3,1,10,2
+221,Paulina Gramaglia,FW,ar Argentina,20,2003,0.7,0,0,0
+222,Cristín Granados,MF,cr Costa Rica,33,1989,1.1,0,0,0
+223,Charlotte Grant,MF,au Australia,21,2001,0,0,0,0
+224,Alex Greenwood,DF,en England,29,1993,7.3,0,0,0
+225,Giada Greggi,"MF,FW",it Italy,23,2000,0.8,0,2,1
+226,Jackie Groenen,MF,nl Netherlands,28,1994,5,0,0,0
+227,Julia Grosso,MF,ca Canada,22,2000,1.9,0,3,0
+228,Irene Guerrero,MF,es Spain,26,1996,0.9,0,3,0
+229,Gabriela Guillén,MF,cr Costa Rica,31,1992,0.5,0,1,0
+230,Katrina Guillou,"FW,MF",ph Philippines,29,1993,3,0,3,0
+231,Ana María Guzmán,DF,co Colombia,18,2005,1.9,0,1,0
+232,Emilie Haavi,FW,no Norway,30,1992,2.8,0,5,2
+233,Chantal Hagel,DF,de Germany,24,1998,2,0,1,0
+234,Phạm Hải Yến,FW,vn Vietnam,28,1994,1,0,1,0
+235,Wu Haiyan,DF,cn China PR,30,1993,0.2,0,0,0
+236,Hanane Aït El Haj,DF,ma Morocco,28,1994,4,0,2,1
+237,Maika Hamano,DF,jp Japan,19,2004,0,0,1,0
+238,Jacqui Hand,FW,nz New Zealand,24,1999,3,0,3,1
+239,Tuva Hansen,DF,no Norway,25,1997,3.6,0,3,1
+240,Pernille Harder,"MF,FW",dk Denmark,30,1992,4,1,10,4
+241,Sofia Harrison,DF,ph Philippines,24,1999,2.1,0,1,0
+242,Mathilde Harviken,DF,no Norway,21,2001,3.9,0,0,0
+243,Josefine Hasbo,MF,dk Denmark,21,2001,2.1,0,3,0
+244,Yui Hasegawa,MF,jp Japan,26,1997,4.4,0,6,3
+245,Betsy Hassett,MF,nz New Zealand,32,1990,1.8,0,2,0
+246,Honoka Hayashi,MF,jp Japan,25,1998,1.9,1,3,1
+247,Ada Hegerberg,FW,no Norway,27,1995,1.2,0,5,0
+248,Marina Hegering,DF,de Germany,33,1990,1,0,0,0
+249,Lauren Hemp,FW,en England,22,2000,5.8,3,13,7
+250,Kathrin Hendrich,DF,de Germany,31,1992,3,0,0,0
+251,Jennifer Hermoso,"MF,FW",es Spain,33,1990,7.2,3,19,6
+252,Erika Hernández,FW,pa Panama,24,1999,0.4,0,0,0
+253,Oihane Hernández,"DF,FW",es Spain,23,2000,3.4,0,1,0
+254,Melissa Herrera,"FW,MF",cr Costa Rica,26,1996,3,1,5,1
+255,Karen Holmgaard,MF,dk Denmark,24,1999,3.7,0,2,0
+256,Sibulele Holweni,"DF,MF",za South Africa,22,2001,1.4,0,1,0
+257,Lindsey Horan,MF,us USA,29,1994,4.3,2,12,4
+258,Xu Huan,GK,cn China PR,24,1999,1,0,0,0
+259,Sofia Huerta,DF,us USA,30,1992,0.1,0,0,0
+260,Jordyn Huitema,FW,ca Canada,22,2001,2.5,0,12,4
+261,Fabienne Humm,FW,ch Switzerland,36,1986,0.2,0,1,0
+262,Clare Hunt,DF,au Australia,24,1999,7.3,0,1,0
+263,Lina Hurtig,"FW,MF",se Sweden,27,1995,1.3,0,1,0
+264,Svenja Huth,DF,de Germany,32,1991,3,0,0,0
+265,Son Hwa-yeon,FW,kr Korea Republic,26,1997,1.2,0,2,0
+266,Hong Hye-ji,DF,kr Korea Republic,26,1996,0.9,0,1,0
+267,Kim Hye-ri,DF,kr Korea Republic,32,1990,3,0,0,0
+268,Choo Hyo-joo,"DF,FW",kr Korea Republic,22,2000,2.5,0,1,0
+269,Sara Hørte,MF,no Norway,22,2000,0,0,1,0
+270,Amanda Ilestedt,DF,se Sweden,30,1993,7,4,9,6
+271,Dalila Ippólito,MF,ar Argentina,21,2002,0.2,0,0,0
+272,Rion Ishikawa,DF,jp Japan,19,2003,1,0,0,0
+273,Andreia Jacinto,MF,pt Portugal,21,2002,1.4,0,5,0
+274,Hilary Jaén,DF,pa Panama,20,2002,1.5,0,0,0
+275,Sofia Jakobsson,"FW,MF",se Sweden,33,1990,1.5,0,2,2
+276,Grace Jale,"FW,MF",nz New Zealand,24,1999,0.3,0,1,1
+277,Lauren James,"MF,FW",en England,21,2001,3.7,3,9,6
+278,Refiloe Jane,MF,za South Africa,30,1992,1.3,0,1,0
+279,Madelen Janogy,MF,se Sweden,27,1995,1.5,0,0,0
+280,Renate Jansen,FW,nl Netherlands,32,1990,0,0,0,0
+281,Dominique Janssen,DF,nl Netherlands,28,1995,5.3,0,4,0
+282,Sherly Jeudy,MF,ht Haiti,24,1998,3,0,1,0
+283,Lou Jiahui,FW,cn China PR,32,1991,2.2,0,1,1
+284,Tang Jiali,FW,cn China PR,28,1995,0,0,0,0
+285,Dou Jiaxing,DF,cn China PR,23,2000,0.1,0,0,0
+286,Darlina Joseph,FW,ht Haiti,19,2003,0,0,0,0
+287,Shwendesky Joseph,MF,ht Haiti,25,1997,0,0,0,0
+288,Tabita Joseph,DF,ht Haiti,19,2003,3,0,1,0
+289,Ibtissam Jraïdi,FW,ma Morocco,30,1992,2.8,1,5,3
+290,Kim Jung-mi,GK,kr Korea Republic,38,1984,2,0,0,0
+291,Anna Jøsendal,FW,no Norway,22,2001,0.1,0,2,2
+292,Uchenna Kanu,FW,ng Nigeria,25,1997,2.5,1,6,2
+293,Wieke Kaptein,MF,nl Netherlands,17,2005,0.5,0,1,0
+294,Sakina Karchaoui,DF,fr France,27,1996,4.3,0,2,1
+295,Sarah Kassi,"DF,MF",ma Morocco,19,2003,1.5,0,0,0
+296,Kathellen,DF,br Brazil,27,1996,1,0,0,0
+297,Evarine Katongo,MF,zm Zambia,20,2002,2.6,0,0,0
+298,Chloe Kelly,FW,en England,25,1998,3.2,1,7,3
+299,Alanna Kennedy,DF,au Australia,28,1995,5.3,1,7,1
+300,Kerolin,MF,br Brazil,23,1999,3,0,7,0
+301,Sam Kerr,FW,au Australia,29,1993,2.9,1,10,3
+302,Melinda Kgadiete,"FW,MF",za South Africa,30,1992,0.1,0,0,0
+303,Thembi Kgatlana,FW,za South Africa,27,1996,3.9,2,19,9
+304,Nomi Kgoale,MF,za South Africa,27,1995,0.9,0,1,0
+305,Kathrine Kühl,MF,dk Denmark,19,2003,3.4,0,4,1
+306,Saki Kumagai,DF,jp Japan,32,1990,5,0,1,1
+307,Racheal Kundananji,"MF,FW",zm Zambia,23,2000,3,1,8,5
+308,Cloé Lacasse,FW,ca Canada,29,1993,1.4,0,4,0
+309,Anissa Lahmari,FW,ma Morocco,26,1997,2.2,1,2,1
+310,Maëlle Lakrar,DF,fr France,23,2000,4.3,1,9,2
+311,Abbie Larkin,"FW,MF",ie Rep. of Ireland,18,2005,0.9,0,2,0
+312,Mariana Larroquette,FW,ar Argentina,30,1992,2.6,0,6,1
+313,Lena Lattwein,MF,de Germany,23,2000,0.6,0,1,1
+314,Lauren,DF,br Brazil,20,2002,2,0,1,0
+315,Rose Lavelle,MF,us USA,28,1995,1.8,0,3,1
+316,Ashley Lawrence,DF,ca Canada,28,1995,3,0,1,0
+317,Léa Le Garrec,MF,fr France,29,1993,1,1,5,2
+318,Eugénie Le Sommer,FW,fr France,34,1989,3.9,3,13,9
+319,Alisha Lehmann,MF,ch Switzerland,24,1999,0.5,0,1,0
+320,Stina Lennartsson,DF,se Sweden,26,1997,1,0,0,0
+321,Martina Lenzini,DF,it Italy,24,1998,0.4,0,0,0
+322,Adriana Leon,FW,ca Canada,30,1992,2,1,5,1
+323,Letícia Izidoro,GK,br Brazil,28,1994,3,0,0,0
+324,Melanie Leupolz,MF,de Germany,29,1994,0.7,0,0,0
+325,Jennyfer Limage,DF,ht Haiti,25,1997,0.3,0,0,0
+326,Yang Lina,MF,cn China PR,29,1994,3,0,4,1
+327,Elena Linari,DF,it Italy,29,1994,3,0,2,1
+328,Yao Lingwei,MF,cn China PR,27,1995,1.9,0,0,0
+329,Trần Thị Hải Linh,MF,vn Vietnam,22,2001,2.3,0,2,0
+330,Wang Linlin,FW,cn China PR,22,2000,0,0,0,0
+331,Zhang Linyan,"MF,FW",cn China PR,22,2001,3,0,4,2
+332,Ruesha Littlejohn,MF,ie Rep. of Ireland,32,1990,2.7,0,0,0
+333,Sydney Lohmann,FW,de Germany,22,2000,0.3,0,2,0
+334,Hali Long,DF,ph Philippines,28,1995,3,0,1,0
+335,Annalie Longo,MF,nz New Zealand,31,1991,1.2,0,2,0
+336,Érica Lonigro,FW,ar Argentina,28,1994,0.4,0,3,1
+337,Batcheba Louis,FW,ht Haiti,25,1997,2.7,0,2,1
+338,Kethna Louis,DF,ht Haiti,26,1996,3,0,1,0
+339,Luana,MF,br Brazil,30,1993,2.7,0,6,2
+340,Ireen Lungu,MF,zm Zambia,25,1997,1.8,0,0,0
+341,Frida Maanum,MF,no Norway,23,1999,2.9,0,9,2
+342,Rikke Madsen,"FW,DF",dk Denmark,25,1997,2.4,0,4,2
+343,Hildah Magaia,"FW,MF",za South Africa,28,1994,3.6,2,6,4
+344,Lina Magull,MF,de Germany,28,1994,1.4,0,2,0
+345,Amel Majri,MF,fr France,30,1993,1.2,0,2,0
+346,Tiisetso Makhubela,"DF,MF",za South Africa,26,1997,1,0,0,0
+347,Xiomara Mapepa,"MF,FW",zm Zambia,,,1.3,0,0,0
+348,Joana Marchão,DF,pt Portugal,26,1996,1,0,2,0
+349,Noelle Maritz,DF,ch Switzerland,27,1995,4,0,1,0
+350,Marta,"FW,MF",br Brazil,37,1986,1.1,0,4,3
+351,Lieke Martens,FW,nl Netherlands,30,1992,5.3,1,21,8
+352,Lara Marti,DF,ch Switzerland,23,1999,0.1,0,0,0
+353,Clara Matéo,"FW,MF",fr France,25,1997,1.7,0,2,0
+354,Ruthny Mathurin,DF,ht Haiti,22,2001,1.6,0,0,0
+355,Noko Matlou,DF,za South Africa,37,1985,2,0,0,0
+356,Cheyna Matthews,"MF,FW",jm Jamaica,29,1993,1.6,0,2,1
+357,Sandrine Mauron,MF,ch Switzerland,26,1996,0.9,0,0,0
+358,Miriam Mayorga,DF,ar Argentina,33,1989,2,0,0,0
+359,Bambanani Mbane,DF,za South Africa,33,1990,3.5,0,1,1
+360,Katie McCabe,"MF,DF",ie Rep. of Ireland,27,1995,3,1,6,2
+361,Chandler McDaniel,FW,ph Philippines,25,1998,0.3,0,0,0
+362,Olivia McDaniel,GK,ph Philippines,25,1997,3,0,0,0
+363,Kayla McKenna,FW,jm Jamaica,26,1996,0.9,0,0,0
+364,Peyton McNamara,MF,jm Jamaica,21,2002,0.2,0,1,1
+365,Carolina Mendes,FW,pt Portugal,35,1987,0.2,0,1,0
+366,Li Mengwen,DF,cn China PR,28,1995,2.8,0,1,0
+367,Shen Mengyu,"MF,FW",cn China PR,21,2001,0.2,0,1,0
+368,Kristie Mewis,MF,us USA,32,1991,0,0,0,0
+369,Moon Mi-ra,"DF,FW",kr Korea Republic,31,1992,0.6,0,1,0
+370,Aurora Mikalsen,GK,no Norway,27,1996,4,0,0,0
+371,Natalia Mills,"MF,FW",pa Panama,30,1993,0.7,0,0,0
+372,Moeka Minami,DF,jp Japan,24,1998,5,0,0,0
+373,Shiori Miyake,DF,jp Japan,27,1995,1,0,1,0
+374,Hinata Miyazawa,"FW,MF",jp Japan,23,1999,3.7,5,13,6
+375,Maren Mjelde,DF,no Norway,33,1989,4,0,2,1
+376,Gift Monday,FW,ng Nigeria,21,2001,0.3,0,0,0
+377,Nérilia Mondésir,FW,ht Haiti,24,1999,3,0,7,1
+378,Mônica,DF,br Brazil,45,1978,0.1,0,1,0
+379,Carmen Montenegro,"MF,DF",pa Panama,22,2000,0.9,0,0,0
+380,Daniela Montoya,MF,co Colombia,32,1990,2.4,0,2,1
+381,Robyn Moodaly,MF,za South Africa,28,1994,0.5,0,1,0
+382,Patrícia Morais,GK,pt Portugal,30,1992,1,0,0,0
+383,Alex Morgan,FW,us USA,33,1989,3.8,0,16,4
+384,Miyabi Moriya,"MF,DF",jp Japan,26,1996,0.4,0,0,0
+385,Maudeline Moryl,MF,ht Haiti,20,2003,0.5,0,0,0
+386,Linda Motlhalo,"MF,FW",za South Africa,24,1998,3.6,1,4,2
+387,Yasmin Mrabet,DF,ma Morocco,23,1999,0.9,0,0,0
+388,Hellen Mubanga,MF,zm Zambia,28,1995,0,0,0,0
+389,Agness Musase,DF,zm Zambia,25,1997,3,0,0,0
+390,Catherine Musonda,GK,zm Zambia,25,1998,2,0,0,0
+391,Zećira Mušović,GK,se Sweden,27,1996,6.3,0,0,0
+392,Lushomo Mweemba,DF,zm Zambia,22,2001,2.7,1,1,1
+393,Lê Thị Diễm My,DF,vn Vietnam,26,1996,3,0,0,0
+394,Alyssa Naeher,GK,us USA,35,1988,4.3,0,0,0
+395,Fūka Nagano,MF,jp Japan,24,1999,3.7,0,2,1
+396,Élodie Nakkach,MF,ma Morocco,28,1995,3.5,0,1,0
+397,Hikaru Naomoto,"MF,FW",jp Japan,29,1994,2,1,7,4
+398,Wendy Natis,DF,pa Panama,20,2002,2.2,0,2,1
+399,Eva Navarro,FW,es Spain,22,2001,1.6,0,4,2
+400,Kika Nazareth,MF,pt Portugal,20,2002,1.7,1,5,2
+401,Courtney Nevin,DF,au Australia,21,2002,0.2,0,0,0
+402,Nguyễn Thị Thanh Nhã,MF,vn Vietnam,21,2001,2,0,1,0
+403,Huỳnh Như,FW,vn Vietnam,31,1991,2,0,0,0
+404,Chiamaka Nnadozie,GK,ng Nigeria,22,2000,4.3,0,0,0
+405,Andreia Norton,MF,pt Portugal,26,1996,2,0,2,0
+406,Aniek Nouwen,DF,nl Netherlands,24,1999,0.9,0,0,0
+407,Romina Núñez,"MF,FW",ar Argentina,29,1994,2.3,1,2,1
+408,Sjoeke Nüsken,DF,de Germany,22,2001,0.5,0,0,0
+409,Áine O'Gorman,MF,ie Rep. of Ireland,34,1989,0.6,0,0,0
+410,Kelley O'Hara,DF,us USA,34,1988,0.1,0,0,0
+411,Denise O'Sullivan,MF,ie Rep. of Ireland,29,1994,3,0,4,0
+412,Lena Oberdorf,MF,de Germany,21,2001,2,0,4,1
+413,Glory Ogbonna,DF,ng Nigeria,24,1998,0.2,0,0,0
+414,Osinachi Ohale,DF,ng Nigeria,31,1991,4.3,1,1,1
+415,Esther Okoronkwo,FW,ng Nigeria,26,1997,0.4,0,0,0
+416,Ifeoma Onumonu,FW,ng Nigeria,29,1994,2.5,0,5,1
+417,Desire Oparanozie,FW,ng Nigeria,29,1993,0.1,0,0,0
+418,Francisca Ordega,"FW,MF",ng Nigeria,29,1993,1.2,0,2,0
+419,Benedetta Orsi,DF,it Italy,23,2000,1,0,0,0
+420,Ochumba Oseke,MF,zm Zambia,21,2001,0.4,0,0,0
+421,Asisat Oshoala,FW,ng Nigeria,28,1994,2.7,1,10,3
+422,Diana Ospina,MF,co Colombia,34,1989,2.5,0,3,1
+423,Sakina Ouzraoui,MF,ma Morocco,21,2001,4,0,1,0
+424,Salma Paralluelo,FW,es Spain,19,2003,5.1,2,19,6
+425,Irene Paredes,DF,es Spain,31,1991,7.3,0,9,1
+426,María Paula Elizondo,"DF,MF",cr Costa Rica,24,1998,1.6,0,0,0
+427,Heather Payne,"MF,DF",ie Rep. of Ireland,23,2000,1.9,0,1,0
+428,Toni Payne,MF,ng Nigeria,28,1995,4.2,0,3,0
+429,Victoria Pelova,"FW,MF",nl Netherlands,24,1999,4.8,0,1,0
+430,Ria Percival,MF,nz New Zealand,33,1989,2.7,0,3,1
+431,Inês Pereira,GK,pt Portugal,24,1999,2,0,0,0
+432,Catalina Pérez,GK,co Colombia,28,1994,4.7,0,0,0
+433,María Pérez,MF,es Spain,21,2001,0.3,0,0,0
+434,Ève Périsset,DF,fr France,28,1994,2.9,0,2,0
+435,Betina Petit-Frère,DF,ht Haiti,19,2003,3,0,0,0
+436,Pauline Peyraud-Magnin,GK,fr France,31,1992,5.3,0,0,0
+437,Casey Phair,"FW,DF",kr Korea Republic,15,2007,1.2,0,2,1
+438,Vast Phiri,DF,zm Zambia,27,1996,0.3,0,0,0
+439,Dayana Pierre-Louis,MF,ht Haiti,19,2003,2.6,0,0,0
+440,Alexandra Pinell,MF,cr Costa Rica,20,2002,0.2,0,0,0
+441,Fátima Pinto,MF,pt Portugal,27,1996,1,0,1,0
+442,Tatiana Pinto,MF,pt Portugal,29,1994,3,0,0,0
+443,Yomira Pinzón,DF,pa Panama,26,1996,3,1,0,0
+444,Seraina Piubel,"MF,FW",ch Switzerland,23,2000,3.7,1,5,3
+445,Ashleigh Plumptre,DF,ng Nigeria,25,1998,4.2,0,5,1
+446,Clare Polkinghorne,DF,au Australia,34,1989,2,0,3,1
+447,Alexandra Popp,"FW,MF",de Germany,32,1991,2.9,4,14,7
+448,Atlanta Primus,"MF,FW",jm Jamaica,26,1997,3.2,0,6,0
+449,Nichelle Prince,FW,ca Canada,28,1995,0.1,0,0,0
+450,Alexia Putellas,MF,es Spain,29,1994,2.4,0,5,1
+451,Chen Qiaozhu,DF,cn China PR,23,1999,3,0,2,1
+452,Quinley Quezada,MF,ph Philippines,26,1997,2.4,0,0,0
+453,Quinn,MF,ca Canada,27,1995,2.9,0,2,0
+454,Louise Quinn,DF,ie Rep. of Ireland,32,1990,3,0,2,0
+455,Lucy Quinn,FW,ie Rep. of Ireland,29,1993,0.8,0,0,0
+456,Aldrith Quintero,MF,pa Panama,21,2002,2.2,0,1,0
+457,Rafaelle,DF,br Brazil,31,1991,3,0,1,0
+458,Lebohang Ramalepe,DF,za South Africa,31,1991,4,0,0,0
+459,Mayra Ramírez,FW,co Colombia,24,1999,5,0,12,2
+460,Mónica Ramos,DF,co Colombia,24,1998,0,0,0,0
+461,Dominique Randle,"DF,MF",ph Philippines,28,1994,0.6,0,0,0
+462,Megan Rapinoe,FW,us USA,37,1985,0.9,0,4,0
+463,Hayley Raso,MF,au Australia,28,1994,6.2,3,10,6
+464,Felicitas Rauch,DF,de Germany,27,1996,1,0,1,0
+465,Sílvia Rebelo,DF,pt Portugal,34,1989,0,0,0,0
+466,Alba Redondo,FW,es Spain,26,1996,4.4,3,17,8
+467,Zineb Redouani,DF,ma Morocco,23,2000,4,0,1,1
+468,Guro Reiten,MF,no Norway,28,1994,4,2,8,3
+469,Wendie Renard,DF,fr France,32,1990,4.3,1,4,1
+470,Gabi Rennie,FW,nz New Zealand,21,2001,0.1,0,0,0
+471,Marcela Restrepo,"MF,FW",co Colombia,24,1999,0.2,0,0,0
+472,Géraldine Reuteler,MF,ch Switzerland,24,1999,3.1,0,3,2
+473,Marion Rey,MF,ch Switzerland,24,1999,0,0,0,0
+474,Nadine Riesen,DF,ch Switzerland,23,2000,2.9,0,1,0
+475,Ali Riley,DF,nz New Zealand,35,1987,3,0,0,0
+476,Indiah-Paige Riley,"MF,FW",nz New Zealand,21,2001,2,0,3,1
+477,Karla Riley,FW,pa Panama,25,1997,0.9,0,0,0
+478,Jayde Riviere,DF,ca Canada,22,2001,2.3,0,0,0
+479,Trinity Rodman,FW,us USA,21,2002,2.6,0,7,3
+480,Misa Rodríguez,GK,es Spain,23,1999,3,0,0,0
+481,Raquel Rodríguez,MF,cr Costa Rica,29,1993,1.3,0,1,0
+482,Yamila Rodríguez,"FW,MF",ar Argentina,25,1998,0.6,0,1,0
+483,Fridolina Rolfö,"FW,MF",se Sweden,29,1993,5.5,3,10,3
+484,Sophie Román Haug,FW,no Norway,24,1999,2.8,3,13,6
+485,Jill Roord,MF,nl Netherlands,26,1997,4.6,4,18,7
+486,Deanne Rose,FW,ca Canada,24,1999,1,0,1,1
+487,Elin Rubensson,MF,se Sweden,30,1993,6.4,1,6,1
+488,Zhang Rui,MF,cn China PR,34,1989,1.3,0,2,0
+489,Alessia Russo,FW,en England,24,1999,5.8,3,22,12
+490,Ana Rute,MF,pt Portugal,25,1998,0,0,1,0
+491,Johanna Rytting Kaneryd,"FW,DF",se Sweden,26,1997,5.6,0,2,1
+492,Adriana Sachs,DF,ar Argentina,29,1993,1,0,0,0
+493,Eunice Sakala,GK,zm Zambia,21,2002,1,0,0,0
+494,María Paula Salas,FW,cr Costa Rica,20,2002,1.8,0,1,0
+495,Deysiré Salazar,MF,pa Panama,19,2004,1.3,0,0,0
+496,Gabriela Salgado,MF,za South Africa,25,1998,0.4,0,0,0
+497,Cecilia Salvai,DF,it Italy,29,1993,2,0,0,0
+498,Duda Sampaio,MF,br Brazil,22,2001,0.3,0,2,0
+499,Vyan Sampson,MF,jm Jamaica,26,1996,3.9,0,2,1
+500,Anna Sandberg,DF,se Sweden,20,2003,1,0,1,0
+501,Leicy Santos,"MF,FW",co Colombia,27,1996,4.2,1,9,3
+502,Paige Satchell,FW,nz New Zealand,25,1998,0.1,0,0,0
+503,Jaclyn Sawicki,MF,ph Philippines,30,1992,2.8,0,0,0
+504,Sophie Schmidt,MF,ca Canada,34,1988,1.2,0,3,1
+505,Olivia Schough,"FW,MF",se Sweden,32,1991,1.4,0,3,1
+506,Lea Schüller,"FW,MF",de Germany,25,1997,1.6,1,4,1
+507,Sheika Scott,FW,cr Costa Rica,16,2006,1.3,0,3,0
+508,Caroline Seger,MF,se Sweden,38,1985,0.8,0,1,1
+509,Ana Seiça,DF,pt Portugal,22,2001,1,0,0,0
+510,Kiko Seike,"DF,MF",jp Japan,26,1996,0.5,0,3,2
+511,Jang Sel-gi,DF,kr Korea Republic,29,1994,3,0,1,0
+512,Linda Sembrant,"DF,FW",se Sweden,36,1987,0.3,0,0,0
+513,Shim Seo-yeon,DF,kr Korea Republic,34,1989,3,0,0,0
+514,Lim Seon-joo,DF,kr Korea Republic,32,1990,1,0,0,0
+515,Jermaine Seoposenwe,"FW,MF",za South Africa,29,1993,3.3,0,4,2
+516,Meryll Serrano,MF,ph Philippines,25,1997,0.3,0,0,0
+517,Annamaria Serturini,FW,it Italy,25,1998,0.4,0,0,0
+518,Rikke Sevecke,DF,dk Denmark,26,1996,3.7,0,0,0
+519,Wang Shanshan,DF,cn China PR,33,1990,3,0,1,0
+520,Khadija Shaw,FW,jm Jamaica,26,1997,3,0,7,1
+521,Kailen Sheridan,GK,ca Canada,27,1995,3,0,0,0
+522,Marissa Sheva,"FW,DF",ie Rep. of Ireland,26,1997,1.1,0,0,0
+523,Risa Shimizu,"MF,DF",jp Japan,26,1996,4.6,1,5,1
+524,Wendy Shongwe,FW,za South Africa,20,2003,0.7,0,2,1
+525,Wang Shuang,"FW,MF",cn China PR,28,1995,1.8,2,3,1
+526,Diana Silva,FW,pt Portugal,28,1995,1.9,0,0,0
+527,Dolores Silva,MF,pt Portugal,31,1991,1.7,0,0,0
+528,Jéssica Silva,FW,pt Portugal,28,1994,2.8,0,6,1
+529,Kameron Simmonds,"FW,MF",jm Jamaica,19,2003,0.2,0,0,0
+530,Christine Sinclair,"FW,MF",ca Canada,40,1983,1.8,0,3,2
+531,Olivia Smith,MF,ca Canada,18,2004,0.1,0,1,1
+532,Sophia Smith,FW,us USA,22,2000,4,2,13,4
+533,Emma Snerle,FW,dk Denmark,22,2001,0.1,0,1,0
+534,Katja Snoeijs,FW,nl Netherlands,26,1996,2.2,1,2,2
+535,Cho So-hyun,MF,kr Korea Republic,34,1988,2.7,1,3,1
+536,Ji So-yun,MF,kr Korea Republic,32,1991,3,0,4,1
+537,Havana Solaun,FW,jm Jamaica,30,1993,0.2,0,0,0
+538,Daniela Solera,GK,cr Costa Rica,25,1997,3,0,0,0
+539,Emily Sonnett,MF,us USA,29,1993,1.4,0,1,0
+540,Coumba Sow,MF,ch Switzerland,28,1994,3.5,0,4,2
+541,Drew Spence,MF,jm Jamaica,30,1992,4,0,7,1
+542,Rebecca Spencer,GK,jm Jamaica,32,1991,4,0,0,0
+543,Sherida Spitse,DF,nl Netherlands,33,1990,4.7,0,1,0
+544,Eliana Stábile,DF,ar Argentina,29,1993,3,0,1,0
+545,Georgia Stanway,MF,en England,24,1999,6.8,1,8,2
+546,Malia Steinmetz,MF,nz New Zealand,24,1999,3,0,5,1
+547,Julia Stierli,DF,ch Switzerland,26,1997,4,0,0,0
+548,Rebekah Stott,DF,nz New Zealand,29,1993,2.4,0,1,0
+549,Ngân Thị Vạn Sự,MF,vn Vietnam,22,2001,0.8,0,0,0
+550,Hina Sugita,"DF,MF",jp Japan,26,1997,1.6,0,0,0
+551,Andi Sullivan,MF,us USA,27,1995,4.3,0,4,0
+552,Chelsea Surpris,DF,ht Haiti,26,1996,1.1,0,0,0
+553,Allyson Swaby,DF,jm Jamaica,26,1996,4,1,1,1
+554,Chantelle Swaby,DF,jm Jamaica,24,1998,4,0,1,1
+555,Kaylin Swart,GK,za South Africa,28,1994,4,0,0,0
+556,Ingrid Syrstad Engen,MF,no Norway,25,1998,2.3,0,3,1
+557,Karina Sævik,"FW,MF",no Norway,27,1996,0.8,0,2,1
+558,Anja Sønstevold,DF,no Norway,30,1992,0.5,0,0,0
+559,Nicoline Sørensen,"FW,MF",dk Denmark,25,1997,1.6,0,0,0
+560,Fatima Tagnaout,MF,ma Morocco,24,1999,3.6,0,1,1
+561,Hana Takahashi,DF,jp Japan,23,2000,3,0,0,0
+562,Tamires,DF,br Brazil,35,1987,3,0,2,2
+563,Mina Tanaka,FW,jp Japan,29,1994,3,2,13,4
+564,Riley Tanner,"FW,MF",pa Panama,23,1999,2.3,0,3,1
+565,Martha Tembo,DF,zm Zambia,25,1998,3,0,1,0
+566,Meriame Terchoun,"FW,MF",ch Switzerland,27,1995,0.6,0,3,2
+567,Gaëlle Thalmann,GK,ch Switzerland,37,1986,4,0,0,0
+568,Trần Thị Kim Thanh,GK,vn Vietnam,29,1993,2.5,0,0,0
+569,Trần Thị Thu Thảo,DF,vn Vietnam,30,1993,3,0,0,0
+570,Kerly Théus,GK,ht Haiti,24,1999,3,0,0,0
+571,Khổng Thị Hằng,GK,vn Vietnam,29,1993,0.5,0,0,0
+572,Chương Thị Kiều,DF,vn Vietnam,27,1995,1.2,0,0,0
+573,Hoàng Thị Loan,DF,vn Vietnam,28,1995,2.3,0,0,0
+574,Thái Thị Thảo,MF,vn Vietnam,28,1995,2,0,1,0
+575,Trần Thị Thu,DF,vn Vietnam,31,1991,3,0,1,0
+576,Dương Thị Vân,MF,vn Vietnam,28,1994,1.7,0,0,0
+577,Alyssa Thompson,FW,us USA,18,2004,0.2,0,0,0
+578,Janni Thomsen,"DF,FW",dk Denmark,23,2000,3.9,0,2,0
+579,Lương Thị Thu Thương,DF,vn Vietnam,23,2000,1.8,0,0,0
+580,Nguyễn Thị Bích Thùy,MF,vn Vietnam,29,1994,2,0,4,2
+581,Frederikke Thøgersen,FW,dk Denmark,27,1995,0.2,0,0,0
+582,Sandie Toletti,MF,fr France,27,1995,3.4,0,4,1
+583,Ella Toone,MF,en England,23,1999,4.9,1,4,2
+584,Aïssatou Tounkara,DF,fr France,28,1995,0,0,0,0
+585,Sanne Troelsgaard Nielsen,MF,dk Denmark,34,1988,0.3,1,1,1
+586,Christy Ucheibe,MF,ng Nigeria,22,2000,4.3,0,6,0
+587,Riko Ueki,FW,jp Japan,23,1999,2,2,10,5
+588,Catalina Usme,"FW,MF",co Colombia,33,1989,5,2,7,2
+589,Emilie Valenciano,MF,cr Costa Rica,26,1997,0.1,0,0,0
+590,Kiki Van Zanten,MF,jm Jamaica,21,2001,0.5,0,0,0
+591,Manuela Vanegas,DF,co Colombia,22,2000,4,1,5,1
+592,Amalie Vangsgaard,FW,dk Denmark,26,1996,2.2,1,5,2
+593,Rosario Vargas,DF,pa Panama,20,2002,0.9,0,0,0
+594,Katrine Veje,DF,dk Denmark,31,1991,4,0,1,1
+595,Evelyne Viens,FW,ca Canada,26,1997,1.1,0,3,2
+596,Fabiola Villalobos,DF,cr Costa Rica,25,1998,3,0,4,1
+597,Gloriana Villalobos,"MF,FW",cr Costa Rica,23,1999,2.1,0,2,1
+598,Cortnee Vine,"MF,DF",au Australia,25,1998,2.8,0,4,3
+599,Ana Vitória,MF,br Brazil,23,2000,0.1,0,0,0
+600,Keira Walsh,MF,en England,26,1997,5.7,0,2,0
+601,Lia Wälti,MF,ch Switzerland,30,1993,3.8,0,0,0
+602,Solai Washington,"MF,FW",jm Jamaica,17,2005,0.4,0,1,0
+603,Yao Wei,"DF,MF",cn China PR,25,1997,3,0,1,0
+604,Hannah Wilkinson,FW,nz New Zealand,31,1992,2.8,1,8,2
+605,Lynn Williams,FW,us USA,30,1993,1.5,0,9,6
+606,Lynn Wilms,"DF,FW",nl Netherlands,22,2000,0.7,0,0,0
+607,Mary Wilombe,MF,zm Zambia,25,1997,0.8,0,0,0
+608,Tiernny Wiltshire,DF,jm Jamaica,25,1998,3,0,0,0
+609,Zhang Xin,"FW,MF",cn China PR,31,1992,1.1,0,0,0
+610,Tameka Yallop,MF,au Australia,31,1991,0.1,0,0,0
+611,Ayaka Yamashita,GK,jp Japan,27,1995,5,0,0,0
+612,Gu Yasha,"MF,FW",cn China PR,32,1990,0.2,0,0,0
+613,Yoon Young-geul,GK,kr Korea Republic,35,1987,1,0,0,0
+614,Lee Young-ju,MF,kr Korea Republic,31,1992,1,0,0,0
+615,Zhu Yu,GK,cn China PR,25,1997,2,0,0,0
+616,Choe Yu-ri,"MF,FW",kr Korea Republic,28,1994,2.4,0,3,1
+617,Shelina Zadorsky,DF,ca Canada,30,1992,0.5,0,0,0
+618,Katie Zelem,MF,en England,27,1996,1,0,0,0
+619,Claudia Zornoza,MF,es Spain,32,1990,0.4,0,0,0

@@ -1,0 +1,290 @@
+[
+  {
+    "title": "Enquiring Minds: Early Detection of Rumors in Social Media from Enquiry Posts",
+    "pub_year": 2015,
+    "interval": "2016-2020",
+    "citations": 173
+  },
+  {
+    "title": "The value of reputation on eBay: A controlled experiment",
+    "pub_year": 2006,
+    "interval": "2007-2011",
+    "citations": 141
+  },
+  {
+    "title": "Reputation systems",
+    "pub_year": 2000,
+    "interval": "2001-2005",
+    "citations": 118
+  },
+  {
+    "title": "Recommender systems",
+    "pub_year": 1997,
+    "interval": "1998-2002",
+    "citations": 88
+  },
+  {
+    "title": "An Online Community Improves Adherence in an Internet-Mediated Walking Program. Part 1: Results of a Randomized Controlled Trial",
+    "pub_year": 2010,
+    "interval": "2011-2015",
+    "citations": 74
+  },
+  {
+    "title": "Recommender Systems-Beyond Matrix Completion",
+    "pub_year": 2016,
+    "interval": "2017-2021",
+    "citations": 65
+  },
+  {
+    "title": "The social cost of cheap pseudonyms",
+    "pub_year": 2001,
+    "interval": "2002-2006",
+    "citations": 62
+  },
+  {
+    "title": "Eliciting informative feedback: The peer-prediction method",
+    "pub_year": 2005,
+    "interval": "2006-2010",
+    "citations": 46
+  },
+  {
+    "title": "Using social psychology to motivate contributions to online communities",
+    "pub_year": 2005,
+    "interval": "2006-2010",
+    "citations": 44
+  },
+  {
+    "title": "It's Creepy, But It Doesn't Bother Me",
+    "pub_year": 2016,
+    "interval": "2017-2021",
+    "citations": 37
+  },
+  {
+    "title": "Hypothetical Outcome Plots Outperform Error Bars and Violin Plots for Inferences about Reliability of Variable Ordering",
+    "pub_year": 2015,
+    "interval": "2016-2020",
+    "citations": 36
+  },
+  {
+    "title": "Presenting Diverse Political Opinions: How and How Much",
+    "pub_year": 2010,
+    "interval": "2011-2015",
+    "citations": 31
+  },
+  {
+    "title": "PICS: Internet access controls without censorship",
+    "pub_year": 1996,
+    "interval": "1997-2001",
+    "citations": 28
+  },
+  {
+    "title": "Community Commerce: Facilitating Trust in Mom-to-Mom Sale Groups on Facebook",
+    "pub_year": 2017,
+    "interval": "2018-2022",
+    "citations": 26
+  },
+  {
+    "title": "Adolescents Searching for Health Information on the Internet: An Observational Study",
+    "pub_year": 2003,
+    "interval": "2004-2008",
+    "citations": 26
+  },
+  {
+    "title": "Adding an Online Community to an Internet-Mediated Walking Program. Part 2: Strategies for Encouraging Community Participation",
+    "pub_year": 2010,
+    "interval": "2011-2015",
+    "citations": 23
+  },
+  {
+    "title": "Effects of Public Commitments and Accountability in a Technology-Supported Physical Activity Intervention",
+    "pub_year": 2015,
+    "interval": "2016-2020",
+    "citations": 20
+  },
+  {
+    "title": "Evaluating Active U: an internet-mediated physical activity program",
+    "pub_year": 2009,
+    "interval": "2010-2014",
+    "citations": 18
+  },
+  {
+    "title": "Happier Together: Integrating a Wellness Application into a Social Network Site",
+    "pub_year": 2010,
+    "interval": "2011-2015",
+    "citations": 17
+  },
+  {
+    "title": "Does pornography-blocking software block access to health information on the Internet?",
+    "pub_year": 2002,
+    "interval": "2003-2007",
+    "citations": 16
+  },
+  {
+    "title": "ReQ-ReC: High Recall Retrieval with Query Pooling and Interactive Classification",
+    "pub_year": 2014,
+    "interval": "2015-2019",
+    "citations": 14
+  },
+  {
+    "title": "Zoning speech on the Internet: A legal and technical model",
+    "pub_year": 1999,
+    "interval": "2000-2004",
+    "citations": 14
+  },
+  {
+    "title": "Extractive Adversarial Networks: High-Recall Explanations for Identifying Personal Attacks in Social Media Posts",
+    "pub_year": 2018,
+    "interval": "2019-2023",
+    "citations": 13
+  },
+  {
+    "title": "Resisting Political Fragmentation on the Internet",
+    "pub_year": 2011,
+    "interval": "2012-2016",
+    "citations": 13
+  },
+  {
+    "title": "Implementation and evaluation of an incentivized Internet-mediated walking program for obese adults",
+    "pub_year": 2013,
+    "interval": "2014-2018",
+    "citations": 12
+  },
+  {
+    "title": "The Influence Limiter: Provably Manipulation-Resistant Recommender Systems",
+    "pub_year": 2007,
+    "interval": "2008-2012",
+    "citations": 12
+  },
+  {
+    "title": "The market for evaluations",
+    "pub_year": 1999,
+    "interval": "2000-2004",
+    "citations": 12
+  },
+  {
+    "title": "Follow the Reader: Filtering Comments on Slashdot",
+    "pub_year": 2007,
+    "interval": "2008-2012",
+    "citations": 7
+  },
+  {
+    "title": "The Information Cost of Manipulation-Resistance in Recommender Systems",
+    "pub_year": 2008,
+    "interval": "2009-2013",
+    "citations": 6
+  },
+  {
+    "title": "Calculating error rates for filtering software",
+    "pub_year": 2004,
+    "interval": "2005-2009",
+    "citations": 5
+  },
+  {
+    "title": "REFEREE: trust management for Web applications",
+    "pub_year": 1997,
+    "interval": "1998-2002",
+    "citations": 5
+  },
+  {
+    "title": "No Such Thing as Too Much Chocolate: Evidence Against Choice Overload in E-Commerce",
+    "pub_year": 2017,
+    "interval": "2018-2022",
+    "citations": 4
+  },
+  {
+    "title": "Multiple Queries as Bandit Arms",
+    "pub_year": 2016,
+    "interval": "2017-2021",
+    "citations": 4
+  },
+  {
+    "title": "Sybilproof Transitive Trust Protocols",
+    "pub_year": 2009,
+    "interval": "2010-2014",
+    "citations": 4
+  },
+  {
+    "title": "What Social Media Data We Are Missing and How to Get It",
+    "pub_year": 2015,
+    "interval": "2016-2020",
+    "citations": 3
+  },
+  {
+    "title": "I Scratched Yours: The Prevalence of Reciprocation in Feedback Provision on eBay",
+    "pub_year": 2010,
+    "interval": "2011-2015",
+    "citations": 2
+  },
+  {
+    "title": "Managing trust in an information-labeling system",
+    "pub_year": 1997,
+    "interval": "1998-2002",
+    "citations": 2
+  },
+  {
+    "title": "EDUCATIONAL PRIORITIES FOR TECHNOLOGY-MEDIATED SOCIAL PARTICIPATION",
+    "pub_year": 2010,
+    "interval": "2011-2015",
+    "citations": 1
+  },
+  {
+    "title": "Conversation Pivots and Double Pivots",
+    "pub_year": 2008,
+    "interval": "2009-2013",
+    "citations": 1
+  },
+  {
+    "title": "Roles for electronic brokers",
+    "pub_year": 1995,
+    "interval": "1996-2000",
+    "citations": 1
+  },
+  {
+    "title": "PHONE-BASED CSCW - TOOLS AND TRIALS",
+    "pub_year": 1993,
+    "interval": "1994-1998",
+    "citations": 1
+  },
+  {
+    "title": "SKIP AND SCAN TELEPHONE MENUS - USER PERFORMANCE AS A FUNCTION OF EXPERIENCE",
+    "pub_year": 1992,
+    "interval": "1993-1997",
+    "citations": 1
+  },
+  {
+    "title": "Including HCI and User Experience (UX) Methodologies in Computing Curricula",
+    "pub_year": 2014,
+    "interval": "2015-2019",
+    "citations": 0
+  },
+  {
+    "title": "HOW DO I FIND AND WORK PRODUCTIVELY WITH A COMPUTER SCIENTIST? A PANEL DISCUSSION ON WORKING ACROSS THE DISCIPLINARY DIVIDE FOR DEVELOPING BEHAVIOR CHANGE TECHNOLOGIES",
+    "pub_year": 2013,
+    "interval": "2014-2018",
+    "citations": 0
+  },
+  {
+    "title": "Three Recommender Approaches to Interface Controls Reduction",
+    "pub_year": 2008,
+    "interval": "2009-2013",
+    "citations": 0
+  },
+  {
+    "title": "The architectures of mandated access controls",
+    "pub_year": 1999,
+    "interval": "2000-2004",
+    "citations": 0
+  },
+  {
+    "title": "Filtering information on the Internet",
+    "pub_year": 1997,
+    "interval": "1998-2002",
+    "citations": 0
+  },
+  {
+    "title": "MULTIPLE DIMENSIONS OF GENERALIZATION IN MODEL-BASED TROUBLESHOOTING",
+    "pub_year": 1993,
+    "interval": "1994-1998",
+    "citations": 0
+  }
+]
